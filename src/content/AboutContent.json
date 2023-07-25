@@ -3,13 +3,13 @@
   "text": "Toma mejores decisiones para tu organización con información relevante desplegada en tiempo real.",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "Infreaestructura de datos",
+      "content": "Construimos pipelines para llevar los datos, sin importar su estado, a donde tienen que estar.",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "Analítica avanzada",
+      "content": "Analizamos y creamos productos para que puedas acceder a los insights más relevantes de tu información.",
       "icon": "notes.svg"
     }
   ]
