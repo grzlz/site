@@ -58,7 +58,7 @@ const Footer = ({ t }: any) => {
             </Col>
             <Col lg={8} md={8} sm={12} xs={12}>
               <Title>{t("Dirección")}</Title>
-              <Para>Holbein 203, Ciudad de México</Para>
+              <Para>Ciudad de México</Para>
             </Col>
             <Col lg={6} md={6} sm={12} xs={12}>
               <Label htmlFor="select-lang">{t("Idioma")}</Label>
